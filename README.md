@@ -1,5 +1,9 @@
-## Hi there 👋
+## WWeegee
+Hello all, I'm one of the Lead Developers in a mod team that makes mods for RPG Maker XP games. yeah.
 
+My first project was ProjectSanity, and my first public project was Luigi's Mansion: The Music Box ([Private Repo](https://github.com/WWeegee/lmtmb)), both mods of Team Ari's (Mario) The Music Box
+### Misc.
+My pronouns are He/Him
 <!--
 **WWeegee/WWeegee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
